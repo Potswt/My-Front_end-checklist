@@ -4,12 +4,12 @@
 
 ## ความรู้พื้นฐานของ Computer Science
 
-- [/ ] รู้จักกับ HTTP
+- [ /] รู้จักกับ HTTP
 - [ /] การทํางานเบื้องต้นของระบบ Internet
 - [ /] DNS / Domain name และ Client - Server Model
-- [/ ] การทํางานของ Web Browser
+- [ /] การทํางานของ Web Browser
 - [ /] ความรู้พื้นฐาน Computer Network
-- [/ ] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
+- [ /] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
 - [ /] พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
 
 ## HTML/CSS
@@ -18,7 +18,7 @@
 - [ /] CSS พื้นฐาน
 - [ /] จัดการ Layouts ของ CSS Grid, Flexbox
 - [ /] การจัดการกับฟอร์ม และ Validation
-- [ ] Responsive Design และ Media Querie
+- [ /] Responsive Design และ Media Querie
 - [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
 - [ ] ES6+ และ จัดการกับ Document Object Model (DOM)
 
@@ -33,14 +33,14 @@
 - [ ] State Management: Redux, MobX, Vuex
 - [ ] Build Tools & Runne
 - [ ] TypeScript
-- [ ] React.js
+- [ /] React.js
 - [ ] Anugular
 - [ ] Vue.js
 
 ## Version Control
 
 - [ ] Git
-- [ ] GitHub
+- [ /] GitHub
 - [ ] GitLab
 
 ## การทำงานกับ API
