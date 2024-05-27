@@ -67,13 +67,13 @@
 - [ ] CSS Architecture (BEM)
 - [ ] CSS Architecture (OOCSS)
 - [ ] CSS Preprocessor (SASS / SCSS)
-- [ ] Tailwind
-- [ ] Bootstrap
+- [ /] Tailwind
+- [ /] Bootstrap
 
 ## การออกแบบการเข้าถึงและประสบการณ์การใช้งาน
 
 - [ ] WAI-ARIA principles
-- [ ] พื้นฐานการออกแบบ UX UI
+- [ /] พื้นฐานการออกแบบ UX UI
 - [ ] i18n and l10n
 
 ## PERFORMANCE/SECURITY
@@ -81,7 +81,7 @@
 - [ ] CORS
 - [ ] HTTPS
 - [ ] Content Security Policy
-- [ ] OWASP TOP 10 ประจําปี
+- [ /] OWASP TOP 10 ประจําปี
 - [ ] Performance Testing
 - [ ] การตรวจสอบเว็บจาก Lighthouse
 - [ ] การใช้งาน DevTools
