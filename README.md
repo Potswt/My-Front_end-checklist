@@ -20,7 +20,7 @@
 - [ /] การจัดการกับฟอร์ม และ Validation
 - [ /] Responsive Design และ Media Querie
 - [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
-- [ ] ES6+ และ จัดการกับ Document Object Model (DOM)
+- [ /] ES6+ และ จัดการกับ Document Object Model (DOM)
 
 ## JavaScript
 
@@ -59,7 +59,7 @@
 
 ## Code Quality & Formatter
 
-- [ ] Prettier
+- [ /] Prettier
 - [ ] ESLint
 
 ## เครื่องมือ และ การออกแบบ CSS
