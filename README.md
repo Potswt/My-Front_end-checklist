@@ -19,13 +19,13 @@
 - [ /] จัดการ Layouts ของ CSS Grid, Flexbox
 - [ /] การจัดการกับฟอร์ม และ Validation
 - [ /] Responsive Design และ Media Querie
-- [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
+- [ /] ความรู้พื้นฐานด้าน Search Engine Optimization
 - [ /] ES6+ และ จัดการกับ Document Object Model (DOM)
 
 ## JavaScript
 
-- [/ ] JavaScript พื้นฐาน
-- [ ] AJAX, Fetch API และ Axios
+- [ /] JavaScript พื้นฐาน
+- [ /] AJAX, Fetch API และ Axios
 - [ ] JSON/XML
 
 ## Front-End JavaScript Libraries/ Frameworks
@@ -46,8 +46,8 @@
 ## การทำงานกับ API
 
 - [ ] JSON Web Tokens
-- [ ] Web APIs ใน Web Browser
-- [ ] REST
+- [ /] Web APIs ใน Web Browser
+- [ /] REST
 - [ ] GraphQL
 
 ## Testing Libraries & คุณภาพของโค้ด
@@ -79,7 +79,7 @@
 ## PERFORMANCE/SECURITY
 
 - [ ] CORS
-- [ ] HTTPS
+- [ /] HTTPS
 - [ ] Content Security Policy
 - [ /] OWASP TOP 10 ประจําปี
 - [ ] Performance Testing
